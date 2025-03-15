@@ -13,8 +13,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrahman10&show_icons=true&locale=en" alt="arrahman10" width="58%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrahman10&layout=donut" alt="arrahman10" width="39.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arrahman10&show_icons=true&theme=default" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrahman10&layout=donut&theme=default" width="39.5%" />
 </p>
 
 ##
