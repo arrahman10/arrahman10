@@ -3,13 +3,13 @@
 <h3 align="center">Mobile App Developer (Flutter, Node.js, Express) | DevOps Engineer</h3>
 
 ### Technical Skills
-- **Languages:** • `C` • `C++` • `Python` • `MATLAB` • `Java` • `JavaScript` • `Dart` • `Kotlin` • `Go`
-- **Frameworks:** • `Flutter` • `Node.js` • `Express`
-- **Databases:** • `MySQL` • `PostgreSQL` • `MongoDB` • `SQLite` • `Firebase Realtime Database`
-- **Libraries:** • `Pub.dev` • `GetX` • `Provider` • `Riverpod` • `Flutter_bloc`
-- **Software Development Ecosystem:** • `Bitbucket` • `GitLab`
-- **Coding Pattern & Principles:** • `MVC` • `MVVM` • `MVP`
-- **Tools:** • `Git` • `GitHub` • `Postman` • `Firebase` • `Docker` • `VS Code` • `Android Studio`
+- **Languages:** `C` • `C++` • `Python` • `MATLAB` • `Java` • `JavaScript` • `Dart` • `Kotlin` • `Go`
+- **Frameworks:** `Flutter` • `Node.js` • `Express` • `Django`
+- **Databases:** `MongoDB` • `MySQL` • `Firebase Realtime Database`
+- **Libraries:** `Pub.dev` • `GetX` • `Provider` • `Riverpod` • `Flutter_bloc`
+- **Software Development Ecosystem:** `Bitbucket` • `GitLab`
+- **Coding Pattern & Principles:** `MVC` • `MVVM` • `MVP`
+- **Tools:** `Git` • `GitHub` • `Postman` • `Firebase` • `Docker` • `VS Code` • `Android Studio`
 
 ### GitHub Stats
 <p align="center">
